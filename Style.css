@@ -1,0 +1,16 @@
+h1,h2,h3,h4
+
+{ background-color: rgb(255, 94, 0);
+  color: rgb(7, 7, 7);
+    }
+
+h6 {background-color: rgb(255, 94, 0);
+    color: black;
+    font-size:  36px;
+    font-style: italic;
+    text-align: center;
+}
+
+div { background-color: rgb(244, 244, 247);}
+
+.div1 { background-color: rgb(16, 16, 207);}
